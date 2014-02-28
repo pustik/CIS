@@ -1,0 +1,8 @@
+127.0.0.1 - - [01/Mar/2014:01:02:24 +0800] "GET / HTTP/1.1" 200 5346 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Safari/537.36"
+127.0.0.1 - - [01/Mar/2014:01:02:25 +0800] "GET /css/bootstrap-theme.min.css HTTP/1.1" 200 13135 "http://cis.loc/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Safari/537.36"
+127.0.0.1 - - [01/Mar/2014:01:02:25 +0800] "GET /css/style.css HTTP/1.1" 200 1042 "http://cis.loc/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Safari/537.36"
+127.0.0.1 - - [01/Mar/2014:01:02:25 +0800] "GET /js/bootstrap.min.js HTTP/1.1" 200 27822 "http://cis.loc/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Safari/537.36"
+127.0.0.1 - - [01/Mar/2014:01:02:25 +0800] "GET /img/zf2-logo.png HTTP/1.1" 200 738 "http://cis.loc/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Safari/537.36"
+127.0.0.1 - - [01/Mar/2014:01:02:25 +0800] "GET /js/jquery.min.js HTTP/1.1" 200 93107 "http://cis.loc/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Safari/537.36"
+127.0.0.1 - - [01/Mar/2014:01:02:25 +0800] "GET /css/bootstrap.min.css HTTP/1.1" 200 99548 "http://cis.loc/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Safari/537.36"
+127.0.0.1 - - [01/Mar/2014:01:02:25 +0800] "GET /img/favicon.ico HTTP/1.1" 200 1406 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Safari/537.36"
