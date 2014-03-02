@@ -16,15 +16,9 @@
         "zf-commons/zfc-base": "0.*",
         "zf-commons/zfc-user": "dev-master",
         "zf-commons/zfc-user-doctrine-orm": "0.1.*",
-        "bjyoungblood/bjy-authorize": "1.2.*",
         "zendexperts/ze-theme": "dev-master",
         "zendframework/zendgdata": "2.0.*@dev",
         "zendframework/zend-developer-tools": "dev-master",
-        "zendframework/zendservice-apple-apns": "1.*",
-        "zfr/zfr-prerender": "1.*",
-        "phly/phly-simple-page": "dev-master",
-        "phly/phly-restfully": "dev-master@dev",
-        "zircote/hal": "dev-master",
-        "zircote/api-problem": "dev-master"
+        "zfr/zfr-prerender": "1.*"
     }
 }
