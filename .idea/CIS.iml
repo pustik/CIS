@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="WEB_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/CISProject/vendor/doctrine/annotations" />
+      <excludeFolder url="file://$MODULE_DIR$/CISProject/vendor/doctrine/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/CISProject/vendor/doctrine/collections" />
+      <excludeFolder url="file://$MODULE_DIR$/CISProject/vendor/doctrine/common" />
+      <excludeFolder url="file://$MODULE_DIR$/CISProject/vendor/doctrine/dbal" />
+      <excludeFolder url="file://$MODULE_DIR$/CISProject/vendor/doctrine/doctrine-module" />
+      <excludeFolder url="file://$MODULE_DIR$/CISProject/vendor/doctrine/doctrine-orm-module" />
+      <excludeFolder url="file://$MODULE_DIR$/CISProject/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/CISProject/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/CISProject/vendor/doctrine/orm" />
+      <excludeFolder url="file://$MODULE_DIR$/CISProject/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/CISProject/vendor/zendexperts/ze-theme" />
+      <excludeFolder url="file://$MODULE_DIR$/CISProject/vendor/zf-commons/zfc-base" />
+      <excludeFolder url="file://$MODULE_DIR$/CISProject/vendor/zf-commons/zfc-user" />
+      <excludeFolder url="file://$MODULE_DIR$/CISProject/vendor/zf-commons/zfc-user-doctrine-orm" />
+      <excludeFolder url="file://$MODULE_DIR$/CISProject/vendor/zfr/zfr-prerender" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library">
@@ -11,6 +28,46 @@
         </CLASSES>
         <SOURCES>
           <root url="phar://$MODULE_DIR$/CISProject/composer.phar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="PHP">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/CISProject/vendor/doctrine/doctrine-orm-module" />
+          <root url="file://$MODULE_DIR$/CISProject/vendor/zendexperts/ze-theme" />
+          <root url="file://$MODULE_DIR$/CISProject/vendor/zf-commons/zfc-base" />
+          <root url="file://$MODULE_DIR$/CISProject/vendor/doctrine/dbal" />
+          <root url="file://$MODULE_DIR$/CISProject/vendor/zf-commons/zfc-user-doctrine-orm" />
+          <root url="file://$MODULE_DIR$/CISProject/vendor/zf-commons/zfc-user" />
+          <root url="file://$MODULE_DIR$/CISProject/vendor/doctrine/orm" />
+          <root url="file://$MODULE_DIR$/CISProject/vendor/doctrine/doctrine-module" />
+          <root url="file://$MODULE_DIR$/CISProject/vendor/zfr/zfr-prerender" />
+          <root url="file://$MODULE_DIR$/CISProject/vendor/symfony/console" />
+          <root url="file://$MODULE_DIR$/CISProject/vendor/doctrine/annotations" />
+          <root url="file://$MODULE_DIR$/CISProject/vendor/doctrine/common" />
+          <root url="file://$MODULE_DIR$/CISProject/vendor/doctrine/collections" />
+          <root url="file://$MODULE_DIR$/CISProject/vendor/doctrine/lexer" />
+          <root url="file://$MODULE_DIR$/CISProject/vendor/doctrine/inflector" />
+          <root url="file://$MODULE_DIR$/CISProject/vendor/doctrine/cache" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/CISProject/vendor/doctrine/doctrine-orm-module" />
+          <root url="file://$MODULE_DIR$/CISProject/vendor/zendexperts/ze-theme" />
+          <root url="file://$MODULE_DIR$/CISProject/vendor/zf-commons/zfc-base" />
+          <root url="file://$MODULE_DIR$/CISProject/vendor/doctrine/dbal" />
+          <root url="file://$MODULE_DIR$/CISProject/vendor/zf-commons/zfc-user-doctrine-orm" />
+          <root url="file://$MODULE_DIR$/CISProject/vendor/zf-commons/zfc-user" />
+          <root url="file://$MODULE_DIR$/CISProject/vendor/doctrine/orm" />
+          <root url="file://$MODULE_DIR$/CISProject/vendor/doctrine/doctrine-module" />
+          <root url="file://$MODULE_DIR$/CISProject/vendor/zfr/zfr-prerender" />
+          <root url="file://$MODULE_DIR$/CISProject/vendor/symfony/console" />
+          <root url="file://$MODULE_DIR$/CISProject/vendor/doctrine/annotations" />
+          <root url="file://$MODULE_DIR$/CISProject/vendor/doctrine/common" />
+          <root url="file://$MODULE_DIR$/CISProject/vendor/doctrine/collections" />
+          <root url="file://$MODULE_DIR$/CISProject/vendor/doctrine/lexer" />
+          <root url="file://$MODULE_DIR$/CISProject/vendor/doctrine/inflector" />
+          <root url="file://$MODULE_DIR$/CISProject/vendor/doctrine/cache" />
         </SOURCES>
       </library>
     </orderEntry>
